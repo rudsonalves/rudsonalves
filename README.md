@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre Mim
 
-Sou Bacharel em Física com Mestrado em Semicondutores pela UNICAMP. Atuei como professor de Física para Engenheiros e Cientistas da Computação na Universidade de Vila Velha por 23 anos, onde fundei grupos de Linux e desenvolvimento de jogos em Python, além de participar na organização dos eventos ENCASOFT (Encontro Capixaba de Software Livre) no Espírito Santo.
+Sou Bacharel em Física com Mestrado em Semicondutores pela UNICAMP. Atuei como professor de Física para Engenheiros e Cientistas da Computação na Universidade de Vila Velha por 23 anos, onde fundei grupos de Linux e desenvolvimento de jogos em Python, promovendo a colaboração e aprendizado entre os estudantes, além de participar na organização dos eventos ENCASOFT (Encontro Capixaba de Software Livre) no Espírito Santo.
 
 Em 2021, fiz uma transição de carreira para o desenvolvimento de software, inicialmente focando em GoLang e, nos últimos 18 meses, em Flutter. Tenho desenvolvido provas de conceito que demonstram minhas habilidades e que me ajudaram a aprofundar meu conhecimento na plataforma.
 
@@ -35,11 +35,11 @@ Essas experiências me permitiram desenvolver habilidades de gestão, liderança
 - **[Trainers Stopwatch](https://github.com/rudsonalves/trainers_stopwatch)**: Aplicativo de múltiplos cronômetros digitais, utilizando Flutter Bloc para o gerenciamento de estados e eventos dos botões, proporcionando um controle mais robusto e organizado.
 - **[LabCalc2](https://github.com/rudsonalves/labcalc2)**: Calculadora de laboratório que realiza cálculos com incertezas e médias com desvios. Este projeto foi uma demanda pessoal que sempre quis desenvolver para Android. Possuo também uma versão em Python2 com PyQt, desenvolvida para Linux/Windows durante meu período como professor.
 - **[Finances](https://github.com/rudsonalves/finances)**: Meu primeiro projeto em Flutter, baseado no projeto do [@devkaio](https://www.youtube.com/@devkaio). Esse projeto foi um grande incentivo para me profissionalizar no desenvolvimento Flutter, oferecendo desafios interessantes e proporcionando aprendizado sobre boas práticas e padrões de design.
-- **[Bares](https://github.com/rudsonalves/bares)**: Projeto realizado em paralelo ao Finances, focando no desenvolvimento de uma API em GoLang, com autenticação baseada em token, para posteriormente integrar com um app Flutter. Meu envolvimento com Flutter me tornou mais criativo e independente, o que acabou adiando a continuidade do desenvolvimento da API em GoLang. Cheguei a trabalhar em uma segunda API para um serviço de medicina online, mas o projeto não prosseguiu.
+- **[Bares](https://github.com/rudsonalves/bares)**: Projeto realizado em paralelo ao Finances, focando no desenvolvimento de uma API em GoLang, com autenticação baseada em token, para posteriormente integrar com um app Flutter. Meu envolvimento com Flutter estimulou minha criatividade e me levou a explorar diferentes possibilidades de desenvolvimento, o que acabou postergando a continuidade do desenvolvimento da API em GoLang. Cheguei a trabalhar em uma segunda API para um serviço de medicina online, mas o projeto não prosseguiu.
 
 ---
 
-Atualmente, estou focado em aprimorar minhas habilidades em Flutter e suas diversas ferramentas, sempre buscando a criação de um código mais limpo e bem estruturado. Estou em constante busca por novos projetos e desafios que possam me ajudar a estender meus conhecimentos e aprimorar minhas capacidades como desenvolvedor.
+Atualmente, estou focado em aprimorar minhas habilidades em Flutter e suas diversas ferramentas, sempre buscando a criação de um código mais limpo e bem estruturado. Busco constantemente novos projetos e desafios para expandir meu conhecimento e desenvolver ainda mais minhas habilidades como desenvolvedor.
 
 Além disso, estou dedicando parte do meu tempo ao aprimoramento do inglês técnico, visando melhorar minha comunicação e me integrar em projetos internacionais, colaborando com equipes globais.
 
