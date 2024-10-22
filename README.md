@@ -6,6 +6,16 @@ Sou Bacharel em Física com Mestrado em Semicondutores pela UNICAMP. Atuei como 
 
 Em 2021, fiz uma transição de carreira para o desenvolvimento de software, inicialmente focando em GoLang e, nos últimos 18 meses, em Flutter. Tenho desenvolvido provas de conceito que demonstram minhas habilidades e que me ajudaram a aprofundar meu conhecimento na plataforma.
 
+### Soft Skills e Experiência em Educação
+
+Durante meu trabalho como professor, adquiri e desenvolvi diversas habilidades interpessoais e de liderança:
+
+- **Coordenação e Liderança**: Projetei, planejei e implementei dois laboratórios de física básica, abrangendo toda a física de nível universitário, incluindo mecânica, ondas, termodinâmica, óptica, eletricidade e introdução à física moderna. Fui coordenador desses laboratórios desde sua criação, sendo responsável por toda a gestão e implantação de experimentos.
+- **Gestão Acadêmica**: Atuei como coordenador de ensino da disciplina de Física, gerenciando uma equipe de 7 a 9 professores (mestres e doutores) por mais de 15 anos.
+- **Inovação em Ensino**: Implementei técnicas pedagógicas inovadoras, como **Just in Time Teaching** e **Peer Instruction**, para promover um aprendizado mais ativo e engajado dos estudantes.
+
+Essas experiências me permitiram desenvolver habilidades de gestão, liderança de equipe e comunicação eficaz em ambientes acadêmicos, além de promover minha capacidade de adaptação e inovação.
+
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens**: Dart, GoLang, Python
