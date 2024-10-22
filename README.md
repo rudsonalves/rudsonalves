@@ -1,5 +1,11 @@
 # Olá! Eu sou o Rudson Alves 👋
+## Hello! I'm Rudson Alves 👋
 
+[Leia em Português](#pt) | [Read in English](#en)
+
+---
+
+<a name="pt"></a>
 ## 🌟 Sobre Mim
 
 Minha jornada sempre foi guiada pela curiosidade científica e pela oportunidade de aplicar tecnologia de forma prática e impactante. Comecei no meio acadêmico e agora foco minhas habilidades no desenvolvimento de software.
@@ -48,6 +54,61 @@ Estou aprimorando meu inglês técnico para colaborar efetivamente em projetos i
 ## 🌐 Conecte-se Comigo
 
 Estou aberto a novas oportunidades de colaboração e desenvolvimento. Sinta-se à vontade para entrar em contato!
+
+- [LinkedIn alvesdev67](https://www.linkedin.com/in/alvesdev67/)
+- [GitHub rudsonalves](https://github.com/rudsonalves)
+
+---
+
+<a name="en"></a>
+## 🌟 About Me
+
+My journey has always been driven by scientific curiosity and the opportunity to apply technology in a practical and impactful way. I began in the academic field and now focus my skills on software development.
+
+I hold a Bachelor's degree in Physics with a Master's in Semiconductors from UNICAMP. I worked as a Physics professor for Engineers and Computer Science students at the University of Vila Velha for 23 years, where I founded Linux and Python game development groups, promoting collaboration and learning among students. I also participated in organizing ENCASOFT (Capixaba Free Software Meeting) in Espírito Santo.
+
+In 2021, I transitioned my career to software development, initially focusing on GoLang and, over the past 18 months, Flutter. I have developed proof-of-concept projects that showcase my skills and have helped me deepen my knowledge of the platform.
+
+### Skills and Experience in Education and Management
+
+During my work as a professor, I acquired and developed several interpersonal and leadership skills:
+
+- **Coordination and Leadership**: I designed, planned, and implemented two basic physics laboratories, covering all university-level physics, including mechanics, waves, thermodynamics, optics, electricity, and an introduction to modern physics. I coordinated these laboratories since their creation, being responsible for all management and implementation of experiments.
+- **Academic Management**: I served as coordinator of the Physics course, managing a team of 7 to 9 professors (Masters and PhDs) for over 15 years.
+- **Teaching Innovation**: I implemented innovative teaching techniques, such as **Just in Time Teaching** and **Peer Instruction**, to foster more active and engaging learning among students.
+
+These experiences allowed me to develop management skills, team leadership, and effective communication in academic environments, as well as promoting my adaptability and innovation capabilities.
+
+## 🚀 Technologies and Tools
+
+- **Languages**: Dart, GoLang, Python
+- **Frameworks**: Flutter
+- **Databases**: Firebase Firestore, Realtime Database, Sqflite, Shared Preferences
+- **Backend and Services**: Parse Server, Firebase Emulator Suite (Authentication, Firestore, Realtime Database, Functions, Storage, Extensions)
+- **State Management**: MobX, Flutter Bloc
+- **API Integration**: REST APIs, Google Maps Integration, Cloud Functions
+- **Utilities**: Geolocator, Path Provider, URL Launcher, PDF Generation
+- **Design and UI**: Google Fonts, Flutter Colorpicker, Onboarding Overlay
+- **Containers and Development Environments**: Docker (for Parse Server emulation and environment consistency)
+
+## 📌 Featured Projects
+
+- **[Delivery App](https://github.com/rudsonalves/delivery)**: Delivery application developed with Flutter, integrating Google Maps and Firebase. The objective of this project was to deepen my knowledge of the Firebase ecosystem and implement navigation features, as well as to improve my project management with Scrum. I used the Firebase Emulator Suite to simulate Authentication, Firestore, Realtime Database, Functions, Storage, and Extensions during development.
+- **[Virtual Trade Store](https://github.com/rudsonalves/bgbazzar)**: Application for buying and trading used products, using Parse Server for data management. The main objective of this project was to explore the use of Parse Server as an API, familiarizing myself with the tool, and expanding my skills in using pre-configured APIs such as Parse Server. During development, I used Docker to emulate Parse Server and ensure consistency in development environments, allowing for seamless integration with backend services. The final version employs a backend hosted on Back4App and is awaiting a better payment option to be finalized.
+- **[Trainers Stopwatch](https://github.com/rudsonalves/trainers_stopwatch)**: Multi-digital stopwatch application, using Flutter Bloc for state management and button event handling, providing a more robust and organized control. The main objective of this project was to revisit Flutter Bloc, exploring a project that allowed me to use it more effectively, beyond just state management. However, after experimenting, I decided not to extend the Bloc to other parts of the project.
+- **[LabCalc2](https://github.com/rudsonalves/labcalc2)**: Laboratory calculator that performs calculations with uncertainties and average deviations. This project was a personal endeavor aimed at facilitating complex laboratory calculations for Android, driven by the need for more accessible tools for students and professionals. I also have a version in Python2 with PyQt, developed for Linux/Windows during my teaching period.
+- **[Finances](https://github.com/rudsonalves/finances)**: My first Flutter project, based on [@devkaio's project](https://www.youtube.com/@devkaio). This project was a significant motivator to professionalize in Flutter development, providing interesting challenges and learning opportunities regarding best practices and design patterns.
+- **[Bares](https://github.com/rudsonalves/bares)**: A project developed alongside Finances, focusing on building a GoLang API with token-based authentication, which would later integrate with a Flutter app. My work with Flutter boosted my creativity and led me to explore different development possibilities, which eventually delayed the continuation of the API development in GoLang. I also started work on a second API for an online medical service, but the project did not proceed.
+
+---
+
+Currently, I am focused on improving my skills in Flutter and its various tools, always striving for cleaner and more structured code. I am constantly seeking new projects and challenges to expand my knowledge and further develop my abilities as a developer.
+
+I am improving my technical English to effectively collaborate on international projects and integrate into global teams.
+
+## 🌐 Connect With Me
+
+I am open to new opportunities for collaboration and development. Feel free to reach out!
 
 - [LinkedIn alvesdev67](https://www.linkedin.com/in/alvesdev67/)
 - [GitHub rudsonalves](https://github.com/rudsonalves)
