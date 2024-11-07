@@ -8,7 +8,7 @@
 <a name="pt"></a>
 ## 🌟 Sobre Mim
 
-Minha jornada sempre foi guiada pela curiosidade científica e pela oportunidade de aplicar tecnologia de forma prática e impactante. Comecei no meio acadêmico e agora foco minhas habilidades no desenvolvimento de software.
+Minha jornada sempre foi guiada pela curiosidade científica e pela oportunidade de aplicar tecnologia de forma prática. Comecei no meio acadêmico e agora foco minhas habilidades no desenvolvimento de software.
 
 Sou Bacharel em Física com Mestrado em Semicondutores pela UNICAMP. Atuei como professor de Física para Engenheiros e Cientistas da Computação na Universidade de Vila Velha por 23 anos, onde fundei grupos de Linux e desenvolvimento de jogos em Python, promovendo a colaboração e aprendizado entre os estudantes, além de participar na organização dos eventos ENCASOFT (Encontro Capixaba de Software Livre) no Espírito Santo.
 
