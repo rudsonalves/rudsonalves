@@ -1,12 +1,12 @@
-# Olá! Eu sou o Rudson Alves 👋
-## Hello! I'm Rudson Alves 👋
+# Olá! Eu sou o Rudson Alves
+## Hello! I'm Rudson Alves
 
 [Leia em Português](#pt) | [Read in English](#en)
 
 ---
 
 <a name="pt"></a>
-## 🌟 Sobre Mim
+## Sobre Mim
 
 Minha jornada sempre foi guiada pela curiosidade científica e pela oportunidade de aplicar tecnologia de forma prática. Comecei no meio acadêmico e agora foco minhas habilidades no desenvolvimento de software.
 
@@ -24,7 +24,7 @@ Durante meu trabalho como professor, adquiri e desenvolvi diversas habilidades i
 
 Essas experiências me permitiram desenvolver habilidades de gestão, liderança de equipe e comunicação eficaz em ambientes acadêmicos, além de promover minha capacidade de adaptação e inovação.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens**: Dart, GoLang, Python
 - **Frameworks**: Flutter
@@ -36,7 +36,7 @@ Essas experiências me permitiram desenvolver habilidades de gestão, liderança
 - **Design e UI**: Google Fonts, Flutter Colorpicker, Onboarding Overlay
 - **Containers e Ambientes de Desenvolvimento**: Docker (para emulação do Parse Server e consistência de ambientes)
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 - **[Boards](https://github.com/rudsonalves/boards)**: Boards é uma evolução do projeto **Virtual Trade Store (BgBazzar)**, criado para revisar e aprimorar o código original seguindo as orientações mais recentes do **Flutter Team** e incorporando melhorias baseadas nos princípios da **Arquitetura Limpa**, de Robert C. Martin. Este projeto busca não apenas refinar a arquitetura, mas também explorar novas ferramentas e práticas para alcançar maior consistência e escalabilidade.
   As principais melhorias incluem:
@@ -59,7 +59,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Flutter e suas diver
 
 Estou aprimorando meu inglês técnico para colaborar efetivamente em projetos internacionais e integrar equipes globais.
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 Estou aberto a novas oportunidades de colaboração e desenvolvimento. Sinta-se à vontade para entrar em contato!
 
@@ -69,7 +69,7 @@ Estou aberto a novas oportunidades de colaboração e desenvolvimento. Sinta-se 
 ---
 
 <a name="en"></a>
-## 🌟 About Me
+## About Me
 
 My journey has always been driven by scientific curiosity and the opportunity to apply technology in a practical and impactful way. I began in the academic field and now focus my skills on software development.
 
@@ -87,7 +87,7 @@ During my work as a professor, I acquired and developed several interpersonal an
 
 These experiences allowed me to develop management skills, team leadership, and effective communication in academic environments, as well as promoting my adaptability and innovation capabilities.
 
-## 🚀 Technologies and Tools
+## Technologies and Tools
 
 - **Languages**: Dart, GoLang, Python
 - **Frameworks**: Flutter
@@ -99,7 +99,7 @@ These experiences allowed me to develop management skills, team leadership, and 
 - **Design and UI**: Google Fonts, Flutter Colorpicker, Onboarding Overlay
 - **Containers and Development Environments**: Docker (for Parse Server emulation and environment consistency)
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **[Boards](https://github.com/rudsonalves/boards)**: Boards is an evolution of the **Virtual Trade Store (BgBazzar)** project, created to review and refine the original code following the latest guidelines from the **Flutter Team** and incorporating improvements based on the principles of **Clean Architecture** by Robert C. Martin. This project aims not only to enhance the architecture but also to explore new tools and practices to achieve greater consistency and scalability.
   Key improvements include:
@@ -122,7 +122,7 @@ Currently, I am focused on improving my skills in Flutter and its various tools,
 
 I am improving my technical English to effectively collaborate on international projects and integrate into global teams.
 
-## 🌐 Connect With Me
+## Connect With Me
 
 I am open to new opportunities for collaboration and development. Feel free to reach out!
 
