@@ -22,7 +22,7 @@ Entre minhas atividades estavam:
 
 ## Projetos em Destaque
 
-### BankLab
+### [BankLab](https://github.com/rudsonalves/banklab)
 
 Laboratório de arquitetura para aplicações financeiras.
 
@@ -34,7 +34,7 @@ Tecnologias:
 * MVVM
 * REST APIs
 
-### Sports
+### [Sports](https://github.com/rudsonalves/sports)
 
 Plataforma para gestão de clubes esportivos.
 
@@ -46,19 +46,7 @@ Tecnologias:
 * PostGIS
 * Geolocalização
 
-### ProntuAI
-
-Prontuário médico pessoal com análise assistida por IA.
-
-Tecnologias:
-
-* Flutter
-* SQLite
-* OpenAI
-* Provider
-* GoRouter
-
-### BGBazzar
+### [BGBazzar](https://github.com/rudsonalves/bgbazzar)
 
 Marketplace para compra, venda e troca de jogos de tabuleiro.
 
@@ -94,8 +82,10 @@ Escrevo regularmente sobre:
 
 ## Contato
 
-🌐 [rralves.dev.br](https://rralves.dev.br/)
+🌐 **Website:** https://rralves.dev.br
 
-💼 [LinkedIn](https://www.linkedin.com/in/alvesdev67/)
+💼 **LinkedIn:** https://www.linkedin.com/in/alvesdev67/
 
-📧 Contato através do LinkedIn ou GitHub
+🐙 **GitHub:** https://github.com/rudsonalves
+
+📚 **Medium:** https://medium.com/@rudsonalves
