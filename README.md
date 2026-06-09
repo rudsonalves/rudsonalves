@@ -1,4 +1,4 @@
-# Olá, eu sou Rudson Alves 👋
+# Olá, eu sou Rudson Alves
 
 Desenvolvedor Mobile e Full-Stack, atuando principalmente com Flutter e Go.
 
