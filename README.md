@@ -100,6 +100,24 @@ Escrevo regularmente sobre:
 * Engenharia de Software
 
 
+## Competências
+
+- Flutter
+- Dart
+- Go
+- REST APIs
+- Supabase
+- Firebase
+- PostgreSQL
+- SQLite
+- Linux
+- Git
+- Clean Architecture
+- MVVM
+- Design Patterns
+- Inteligência Artificial aplicada ao desenvolvimento
+
+
 ## Sobre este GitHub
 
 Este perfil reúne projetos profissionais, estudos, provas de conceito e iniciativas voltadas ao aprofundamento em desenvolvimento mobile, backend, arquitetura de software e uso de Inteligência Artificial no processo de engenharia de software.
