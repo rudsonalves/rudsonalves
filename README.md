@@ -2,9 +2,9 @@
 
 Desenvolvedor de Software com foco em aplicações móveis utilizando Flutter e desenvolvimento de APIs em Go.
 
-Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante mais de 20 anos atuei como professor universitário, lecionando Física para cursos de Engenharia e Ciência da Computação. Nos últimos anos redirecionei minha carreira para o desenvolvimento de software, área em que atuo profissionalmente desenvolvendo aplicações, APIs e produtos digitais.
+Bacharel em Física e Mestre em Semicondutores pela UNICAMP, atuei por mais de duas décadas como professor universitário antes de direcionar minha carreira para o desenvolvimento de software.
 
-Minha experiência recente inclui o desenvolvimento de aplicações Flutter em ambiente corporativo, integração com APIs, definição de contratos entre frontend e backend, além da construção de projetos próprios com foco em arquitetura, qualidade de código e evolução contínua do produto.
+Hoje trabalho no desenvolvimento de aplicações mobile, APIs e produtos digitais, combinando experiência em ensino, pensamento analítico e arquitetura de software.
 
 
 ## Experiência Profissional
@@ -87,6 +87,7 @@ Tecnologias:
 * API Design
 * Inteligência Artificial aplicada ao desenvolvimento
 
+
 ## Publicações
 
 Escrevo regularmente sobre:
@@ -97,6 +98,14 @@ Escrevo regularmente sobre:
 * Clean Architecture
 * Desenvolvimento Mobile
 * Engenharia de Software
+
+
+## Sobre este GitHub
+
+Este perfil reúne projetos profissionais, estudos, provas de conceito e iniciativas voltadas ao aprofundamento em desenvolvimento mobile, backend, arquitetura de software e uso de Inteligência Artificial no processo de engenharia de software.
+
+Meu objetivo é construir software que seja tecnicamente sólido, evolutivo e capaz de gerar valor real para seus usuários.
+
 
 ## Contato
 
