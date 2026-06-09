@@ -1,17 +1,17 @@
 # Olá, eu sou Rudson Alves
 
-Desenvolvedor de Software com foco em aplicações móveis utilizando Flutter e desenvolvimento de APIs em Go.
+Desenvolvedor de Software com foco em aplicações mobile utilizando Flutter e desenvolvimento de APIs em Go.
 
-Bacharel em Física e Mestre em Semicondutores pela UNICAMP, atuei por mais de duas décadas como professor universitário antes de direcionar minha carreira para o desenvolvimento de software.
+Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante mais de duas décadas atuei como professor universitário, lecionando Física para cursos de Engenharia e Ciência da Computação.
 
-Hoje trabalho no desenvolvimento de aplicações mobile, APIs e produtos digitais, combinando experiência em ensino, pensamento analítico e arquitetura de software.
+Nos últimos anos direcionei minha carreira para o desenvolvimento de software, atuando profissionalmente na construção de aplicações mobile, APIs e produtos digitais.
 
 
 ## Experiência Profissional
 
 ### Aurix
 
-Atuei no desenvolvimento de um aplicativo fintech utilizando Flutter.
+Atuei no desenvolvimento de um aplicativo fintech utilizando Flutter, participando da evolução contínua do produto e colaborando diretamente com equipes responsáveis pelos serviços backend.
 
 Entre minhas atividades estavam:
 
@@ -26,7 +26,8 @@ Entre minhas atividades estavam:
 
 ### Flutterando (2025)
 
-Participei da equipe de apoio técnico do treinamento Flutter Expert, conduzido por Jacob Moura, auxiliando alunos em dúvidas relacionadas a Flutter, arquitetura de software, gerenciamento de estado e boas práticas de desenvolvimento ao longo de duas turmas.
+Participei da equipe de apoio técnico do treinamento Flutter Expert, conduzido por Jacob Moura, auxiliando alunos em dúvidas relacionadas a Flutter, arquitetura de software, gerenciamento de estado e boas práticas de desenvolvimento durante duas turmas ao longo de 2025.
+
 
 ### Revisão Técnica — "Documentação AI-ready para Flutter e Dart"
 
@@ -75,19 +76,6 @@ Tecnologias:
 * Clean Architecture
 
 
-## Interesses Técnicos
-
-* Flutter
-* Dart
-* Go
-* Arquitetura de Software
-* Desenvolvimento Mobile
-* Backend
-* Linux
-* API Design
-* Inteligência Artificial aplicada ao desenvolvimento
-
-
 ## Publicações
 
 Escrevo regularmente sobre:
@@ -102,20 +90,32 @@ Escrevo regularmente sobre:
 
 ## Competências
 
+### Mobile
 - Flutter
 - Dart
+- Android
+
+### Backend
 - Go
 - REST APIs
 - Supabase
 - Firebase
+
+### Banco de Dados
 - PostgreSQL
 - SQLite
-- Linux
-- Git
+- Firestore
+
+### Arquitetura e Engenharia
 - Clean Architecture
 - MVVM
 - Design Patterns
+- API Design
 - Inteligência Artificial aplicada ao desenvolvimento
+
+### Ferramentas
+- Linux
+- Git
 
 
 ## Sobre este GitHub
