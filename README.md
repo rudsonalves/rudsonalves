@@ -24,7 +24,7 @@ Entre minhas atividades estavam:
 
 ### [BankLab](https://github.com/rudsonalves/banklab)
 
-Laboratório de arquitetura para aplicações financeiras.
+Plataforma de estudos para sistemas bancários digitais desenvolvida com Flutter e Go, explorando autenticação, gestão de contas, transações financeiras e arquitetura de sistemas.
 
 Tecnologias:
 
@@ -36,7 +36,7 @@ Tecnologias:
 
 ### [Sports](https://github.com/rudsonalves/sports)
 
-Plataforma para gestão de clubes esportivos.
+Sistema de gestão esportiva desenvolvido com Flutter e Supabase, incluindo gerenciamento de clubes, atletas, agendas, geolocalização e controle de acesso por perfil.
 
 Tecnologias:
 
@@ -48,7 +48,7 @@ Tecnologias:
 
 ### [BGBazzar](https://github.com/rudsonalves/bgbazzar)
 
-Marketplace para compra, venda e troca de jogos de tabuleiro.
+Marketplace para compra, venda e troca de jogos de tabuleiro, desenvolvido para aprofundar conhecimentos em arquitetura de aplicações, persistência de dados e integração entre frontend e backend.
 
 Tecnologias:
 
