@@ -1,10 +1,10 @@
 # Olá, eu sou Rudson Alves
 
-Desenvolvedor Mobile e Full-Stack, atuando principalmente com Flutter e Go.
+Desenvolvedor de Software com foco em aplicações móveis utilizando Flutter e desenvolvimento de APIs em Go.
 
-Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Após mais de duas décadas de atuação como professor universitário, realizei minha transição para o desenvolvimento de software, área na qual venho me dedicando integralmente nos últimos anos.
+Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante mais de 20 anos atuei como professor universitário, lecionando Física para cursos de Engenharia e Ciência da Computação. Nos últimos anos redirecionei minha carreira para o desenvolvimento de software, área em que atuo profissionalmente desenvolvendo aplicações, APIs e produtos digitais.
 
-Tenho experiência no desenvolvimento de aplicativos móveis, APIs, integração entre sistemas e arquitetura de software, com foco em soluções simples, manuteníveis e escaláveis.
+Minha experiência recente inclui o desenvolvimento de aplicações Flutter em ambiente corporativo, integração com APIs, definição de contratos entre frontend e backend, além da construção de projetos próprios com foco em arquitetura, qualidade de código e evolução contínua do produto.
 
 ## Experiência Profissional
 
