@@ -2,10 +2,9 @@
 
 Desenvolvedor de Software com foco em aplicações mobile utilizando Flutter e desenvolvimento de APIs em Go.
 
-Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante mais de duas décadas atuei como professor universitário, lecionando Física para cursos de Engenharia e Ciência da Computação.
+Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante 23 anos atuei como professor universitário, lecionando Física para cursos de Engenharia e Ciência da Computação.
 
-Nos últimos anos direcionei minha carreira para o desenvolvimento de software, atuando profissionalmente na construção de aplicações mobile, APIs e produtos digitais.
-
+Nos últimos anos consolidei minha atuação profissional no desenvolvimento de software, trabalhando na construção de aplicações mobile, APIs e produtos digitais.
 
 ## Experiência Profissional
 
@@ -31,7 +30,7 @@ Participei da equipe de apoio técnico do treinamento Flutter Expert, conduzido 
 
 ### Revisão Técnica — "Documentação AI-ready para Flutter e Dart"
 
-Colaborei na revisão técnica e discussão conceitual do livro *Documentação AI-ready para Flutter e Dart: Desenvolvimento Assistido por IA*, de Jacob Moura.
+Colaborei na revisão técnica, validação de conteúdo e discussão conceitual do livro *Documentação AI-ready para Flutter e Dart: Desenvolvimento Assistido por IA*, de Jacob Moura.
 
 O trabalho esteve relacionado à consolidação de práticas voltadas ao uso de Inteligência Artificial como ferramenta de desenvolvimento de software, abordando estratégias para documentação orientada a IA, melhoria de contexto para assistentes de código e integração de fluxos de desenvolvimento assistidos por modelos de linguagem.
 
