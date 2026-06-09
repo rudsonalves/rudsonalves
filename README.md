@@ -6,19 +6,6 @@ Sou Bacharel em Física e Mestre em Semicondutores pela UNICAMP. Durante mais de
 
 Minha experiência recente inclui o desenvolvimento de aplicações Flutter em ambiente corporativo, integração com APIs, definição de contratos entre frontend e backend, além da construção de projetos próprios com foco em arquitetura, qualidade de código e evolução contínua do produto.
 
-## Comunidade e Produção Técnica
-
-### Flutterando (2025)
-
-Participei da equipe de apoio técnico do treinamento Flutter Expert, conduzido por Jacob Moura, auxiliando alunos em dúvidas relacionadas a Flutter, arquitetura de software, gerenciamento de estado e boas práticas de desenvolvimento ao longo de duas turmas.
-
-### Revisão Técnica — "Documentação AI-ready para Flutter e Dart"
-
-Colaborei na revisão técnica e discussão conceitual do livro *Documentação AI-ready para Flutter e Dart: Desenvolvimento Assistido por IA*, de Jacob Moura.
-
-O trabalho esteve relacionado à consolidação de práticas voltadas ao uso de Inteligência Artificial como ferramenta de desenvolvimento de software, abordando estratégias para documentação orientada a IA, melhoria de contexto para assistentes de código e integração de fluxos de desenvolvimento assistidos por modelos de linguagem.
-
-A experiência contribuiu para aprofundar minha compreensão sobre o impacto da IA no desenvolvimento moderno de software e sobre as adaptações necessárias em arquitetura, documentação e processos de engenharia para aproveitar essas ferramentas de forma produtiva e responsável.
 
 ## Experiência Profissional
 
@@ -33,6 +20,22 @@ Entre minhas atividades estavam:
 * Definição e refinamento de contratos de integração;
 * Colaboração com equipes backend;
 * Evolução da consistência entre frontend e backend.
+
+
+## Comunidade e Produção Técnica
+
+### Flutterando (2025)
+
+Participei da equipe de apoio técnico do treinamento Flutter Expert, conduzido por Jacob Moura, auxiliando alunos em dúvidas relacionadas a Flutter, arquitetura de software, gerenciamento de estado e boas práticas de desenvolvimento ao longo de duas turmas.
+
+### Revisão Técnica — "Documentação AI-ready para Flutter e Dart"
+
+Colaborei na revisão técnica e discussão conceitual do livro *Documentação AI-ready para Flutter e Dart: Desenvolvimento Assistido por IA*, de Jacob Moura.
+
+O trabalho esteve relacionado à consolidação de práticas voltadas ao uso de Inteligência Artificial como ferramenta de desenvolvimento de software, abordando estratégias para documentação orientada a IA, melhoria de contexto para assistentes de código e integração de fluxos de desenvolvimento assistidos por modelos de linguagem.
+
+A experiência contribuiu para aprofundar minha compreensão sobre o impacto da IA no desenvolvimento moderno de software e sobre as adaptações necessárias em arquitetura, documentação e processos de engenharia para aproveitar essas ferramentas de forma produtiva e responsável.
+
 
 ## Projetos em Destaque
 
